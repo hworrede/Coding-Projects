@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Length: 164
+Last-Modified: Fri, March 10, 2023 06:07:07 GMT
+Date: Fri, March 10, 2023 06:07:08 GMT
+Content-Type: text/html
+
+
+<!doctype html>
+<html>
+<head>
+    <title> Our Funky HTML Page</title>
+   
+</head>
+<body>
+    Hello World, I am Hagos Worrede and Student id:1820329 
+</body>
+</html>

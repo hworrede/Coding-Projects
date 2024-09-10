@@ -1,0 +1,235 @@
+
+Client request served,4-tuple:,127.0.0.1,47,127.0.0.1,55371,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,47,127.0.0.1,55378,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,47,127.0.0.1,55379,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,4,127.0.0.1,55516,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,4,127.0.0.1,55518,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,4,127.0.0.1,55526,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/large_file/10MB.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10485760
+"
+Client request served,4-tuple:,127.0.0.1,4,127.0.0.1,55596,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/large_file/10MB.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10485760
+"
+Client request served,4-tuple:,127.0.0.1,4,127.0.0.1,55598,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,5,127.0.0.1,55601,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,5,127.0.0.1,55636,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,5,127.0.0.1,55657,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,5,127.0.0.1,55658,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,3000,127.0.0.1,50557,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,3000,127.0.0.1,50571,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/filesystem.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10738213
+"
+Client request served,4-tuple:,127.0.0.1,3000,127.0.0.1,50817,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/filesystem.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10738213
+"
+Client request served,4-tuple:,127.0.0.1,3000,127.0.0.1,50820,Requested URL,/Users/juni/Desktop/FinalProject//,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 448
+"
+Client request served,4-tuple:,127.0.0.1,4000,127.0.0.1,50843,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2200,127.0.0.1,50870,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2300,127.0.0.1,50891,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2200,127.0.0.1,51004,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2200,127.0.0.1,51005,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2200,127.0.0.1,51010,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2200,127.0.0.1,51011,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2000,127.0.0.1,51025,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2000,127.0.0.1,51033,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2000,127.0.0.1,51053,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2000,127.0.0.1,51056,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2000,127.0.0.1,51062,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2000,127.0.0.1,51078,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2010,127.0.0.1,51092,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2030,127.0.0.1,51097,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2030,127.0.0.1,51100,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2033,127.0.0.1,51104,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2034,127.0.0.1,51109,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2013,127.0.0.1,51139,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2083,127.0.0.1,51151,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2016,127.0.0.1,51158,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2019,127.0.0.1,51172,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2039,127.0.0.1,51183,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51189,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2067,127.0.0.1,51203,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2063,127.0.0.1,51211,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2063,127.0.0.1,51217,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2063,127.0.0.1,51228,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/filesystem.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10738213
+"
+Client request served,4-tuple:,127.0.0.1,2053,127.0.0.1,51246,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/filesystem.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10738213
+"
+Client request served,4-tuple:,127.0.0.1,2033,127.0.0.1,51258,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/filesystem.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10738213
+"
+Client request served,4-tuple:,127.0.0.1,2037,127.0.0.1,51269,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2039,127.0.0.1,51282,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2047,127.0.0.1,51287,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2047,127.0.0.1,51289,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51294,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51295,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51297,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51298,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51299,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51300,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51307,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51310,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51311,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2067,127.0.0.1,51335,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51343,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51344,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51345,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51348,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/filesystem.zip,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 10738213
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51358,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51359,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2069,127.0.0.1,51382,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51435,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51436,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51574,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2032,127.0.0.1,51578,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2052,127.0.0.1,51587,Requested URL,/Users/juni/Desktop/FinalProject//filesystem/HTMLfile_with_online_images/Example2.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 640
+"
+Client request served,4-tuple:,127.0.0.1,2052,127.0.0.1,51591,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2054,127.0.0.1,51597,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2052,127.0.0.1,51614,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2052,127.0.0.1,51615,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2052,127.0.0.1,51617,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"
+Client request served,4-tuple:,127.0.0.1,2052,127.0.0.1,51637,Requested URL,/Users/juni/Desktop/FinalProject//HelloWorld.html,"HTTP/1.1 200 OK
+",Bytes transmitted:,"Content-Length: 164
+"

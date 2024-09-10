@@ -1,0 +1,26 @@
+[[extend "layout.html"]]
+
+<div class="section mx-6">
+   <!-- Put the table here -->
+   <h1 class="title">
+      Birds
+   </h1>
+   <table class="table is-striped is-fullwidth">
+      <tr>
+
+         <th>Bird Species</th>
+         <th>Weight</th>
+         <th>Diet</th>
+         <th>Habitat</th>
+      </tr>
+      <tr></tr>
+      [[for b in content:]]
+      <tr>
+         <td>[[=b["bird"]]]</td>
+         <td>[[=b["weight"]]]</td>
+         <td>[[=b["diet"]]]</td>
+         <td>[[=b["habitat"]]]</td>
+      </tr>
+      [[pass]]
+</table>
+</div>
