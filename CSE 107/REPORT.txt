@@ -1,0 +1,111 @@
+Hagos Worrede report file
+
+Relative Frequencies for p = 0.5:
+	n = 5 would be 0.512
+
+	n = 10 would be 0.495
+
+	n = 50 would be 0.501
+
+	n = 100 would be 0.499
+
+
+
+Relative Frequencies for p in [0.2, 0.3, 0.4, 0.6, 0.7, 0.8]:
+
+n = 50
+Probability heads = 0.2
+relative frequency given p = 0.2: 0.455
+
+Probability heads = 0.3
+relative frequency given p = 0.3: 0.457
+
+Probability heads = 0.4
+relative frequency given p = 0.4: 0.476
+
+Probability heads = 0.6
+relative frequency given p = 0.6: 0.508
+
+Probability heads = 0.7
+relative frequency given p = 0.7: 0.482
+
+Probability heads = 0.8
+relative frequency given p = 0.8: 0.525
+
+relative frequency = 0.48383333333333334
+average = 483.8333333333333
+
+
+
+n = 10
+Probability heads = 0.2
+relative frequency given p = 0.2: 0.44
+
+Probability heads = 0.3
+relative frequency given p = 0.3: 0.465
+
+Probability heads = 0.4
+relative frequency given p = 0.4: 0.461
+
+Probability heads = 0.6
+relative frequency given p = 0.6: 0.474
+
+Probability heads = 0.7
+relative frequency given p = 0.7: 0.576
+
+Probability heads = 0.8
+relative frequency given p = 0.8: 0.58
+
+relative frequency = 0.4993333333333333
+average = 499.3333333333333
+
+
+
+
+n = 5
+Probability heads = 0.2
+relative frequency given p = 0.2: 0.407
+
+Probability heads = 0.3
+relative frequency given p = 0.3: 0.432
+
+Probability heads = 0.4
+relative frequency given p = 0.4: 0.469
+
+Probability heads = 0.6
+relative frequency given p = 0.6: 0.513
+
+Probability heads = 0.7
+relative frequency given p = 0.7: 0.563
+
+Probability heads = 0.8
+relative frequency given p = 0.8: 0.588
+
+relative frequency = 0.4953333333333333
+average = 495.3333333333333
+
+
+
+
+
+n = 100
+Probability heads = 0.2
+relative frequency given p = 0.2: 0.471
+
+Probability heads = 0.3
+relative frequency given p = 0.3: 0.488
+
+Probability heads = 0.4
+relative frequency given p = 0.4: 0.504
+
+Probability heads = 0.6
+relative frequency given p = 0.6: 0.515
+
+Probability heads = 0.7
+relative frequency given p = 0.7: 0.486
+
+Probability heads = 0.8
+relative frequency given p = 0.8: 0.505
+
+relative frequency = 0.4948333333333333
+average = 494.8333333333333
